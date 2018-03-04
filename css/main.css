@@ -608,6 +608,7 @@ p{
     #page-3 {
         width: 100%;
         min-height: 100vh;
+        height: auto;
         background: #04d6b1;
         color: white;
         display: flex;
@@ -634,14 +635,14 @@ p{
         box-shadow: rgba(0, 0, 0, 0.24) 1px 1px 6px 2px;
     }
     #page-4 {
-        width: 100%;
+        width: calc(100% - 10px);
         height: 100vh;
         background: #ffc43a;
         color: white;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 0;
+        padding: 5px;
         z-index: 7;
         flex-wrap: wrap;
         align-content: center;
