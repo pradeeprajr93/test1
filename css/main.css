@@ -101,6 +101,10 @@ html{
     font-size: 14px;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+@import url('https://use.fontawesome.com/releases/v5.0.8/css/all.css');
+
 body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
