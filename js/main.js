@@ -1,7 +1,6 @@
 window.onscroll = function() {scrollCheck()};
 
 function scrollCheck() {
-    console.log('scrolling!');
     var page_1_height = document.getElementById('page-1').getBoundingClientRect().height;
     var page_2_height = document.getElementById('page-2').getBoundingClientRect().height;
     var page_3_height = document.getElementById('page-3').getBoundingClientRect().height;
