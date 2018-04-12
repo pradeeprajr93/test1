@@ -1,2 +1,0 @@
-# portfolio
-Pradeep's Portfolio
